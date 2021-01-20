@@ -1,0 +1,8 @@
+logging:
+  level: INFO
+  loggers:
+    com.example: DEBUG
+oktaOAuth:
+  baseUrl: https://dev-1760838.okta.com
+  issuer: https://dev-1760838.okta.com/oauth2/default
+  clientId: 0oa428rhb9P3I0E0g5d6
